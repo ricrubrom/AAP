@@ -1,15 +1,14 @@
 # Aprendizaje Automático Profundo
 
-## 1. Create and Activate Virtual Environment
+## 1. Crear y Activar el Entorno Virtual
 
 ```bash
 python -m venv AAP
 source AAP/bin/activate
 ```
 
-## 2. Install Dependencies
+## 2. Instalar Dependencias
 
 ```bash
 pip install -r requirements.txt
 ```
-
